@@ -2132,10 +2132,10 @@ lodash@^4.17.2, lodash@^4.2.0, lodash@^4.2.1:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
-logkitty@0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/logkitty/-/logkitty-0.7.0.tgz#38d76b93ff493712a265bd77f0cfa649c6b6cdde"
-  integrity sha512-DHwNCRNG2JQAbHm0V95Rjb/DA7bPopbAtXC3s6Z31DjuFnPWLfBk125Bv3Tj0SBdMiZXe4coTE9fNLT3V9W4eA==
+logkitty@0.7.1:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/logkitty/-/logkitty-0.7.1.tgz#8e8d62f4085a826e8d38987722570234e33c6aa7"
+  integrity sha512-/3ER20CTTbahrCrpYfPn7Xavv9diBROZpoXGVZDWMw4b/X4uuUwAC0ki85tgsdMRONURyIJbcOvS94QsUBYPbQ==
   dependencies:
     ansi-fragments "^0.2.1"
     dayjs "^1.8.15"
